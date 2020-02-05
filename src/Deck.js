@@ -6,7 +6,7 @@ class Card{
     }
 }
 
-const Deck =() => ( [new Card('A',14,4),
+const Deck = () => ( [new Card('A',14,4),
     new Card('K',13,4),
     new Card('Q',12,4),
     new Card('J',11,4),
